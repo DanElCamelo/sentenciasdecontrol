@@ -10,7 +10,7 @@ public class Main {
         else
             System.out.println("El numero es 0");
 
-        int numeroWhile = 0;
+        int numeroWhile = 2;
 
         while (numeroWhile<3){
             System.out.println("El numero es " + numeroWhile);
